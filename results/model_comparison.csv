@@ -1,0 +1,6 @@
+Model,RMSE_MW,R2_Score,MAE_MW,MAPE_Percent,Training_Time_Seconds,Improvement_Over_Baseline
+Neural Network,203.92,0.9928,156.74,0.97,185.1,50.7%
+XGBoost,222.86,0.9914,160.11,0.97,2.7,46.1%
+Random Forest,321.30,0.9821,237.60,1.43,6.9,22.3%
+Linear Regression,413.25,0.9704,315.26,1.94,0.5,baseline
+SVR (RBF Kernel),476.05,0.9607,301.70,1.73,570.2,-15.2%
